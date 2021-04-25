@@ -1,0 +1,17 @@
+html{
+    scroll-behavior: smooth;
+}
+
+#welcome-section{
+    height: 100vh;
+}
+
+#name{
+    background: -webkit-linear-gradient(#02aab0, #00cdac);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.CardBG{
+    background: linear-gradient(to right, #136a8a, #267871) !important;
+}
